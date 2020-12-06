@@ -1,16 +1,15 @@
-### Hi there 👋
+# Victor Hugo
+<p align="left">
+  <a href="mailto:victorh.cepil@hotmail.com" alt="Email">
+  <img src="https://img.shields.io/badge/-victorh.cepil@hotmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:victorh.cepil@hotmail.com" /></a>
+  &nbsp;
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-victorhugocepil-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhugocepil/" /></a>
 
-<!--
-**Viiict0r/Viiict0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Me chamo Victor, e atualmente sou desenvolvedor Fullstack :)
+
+* :computer: React, React Native, Node, Typescript
+
