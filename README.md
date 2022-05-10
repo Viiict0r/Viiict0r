@@ -1,15 +1,28 @@
-# Victor Hugo
-<p align="left">
-  <a href="mailto:victorh.cepil@hotmail.com" alt="Email">
-  <img src="https://img.shields.io/badge/-victorh.cepil@hotmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:victorh.cepil@hotmail.com" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/victorhugocepil/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-victorhugocepil-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhugocepil/" /></a>
+### 💡 Olá!
 
-</p>  
+Sou desenvolvedor full-stack graduado em Análise e Desenvolvimento de Sistemas, atualmente trabalhando e me aperfeiçoando no mundo das aplicações **front-end.** 👨🏻‍💻
 
+Algumas tecnologias que costumam estar presentes no meu dia a dia:
 
-Olá! Me chamo Victor, e atualmente sou desenvolvedor Fullstack :)
+<div>
+  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
+  <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
+  <img src=https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=333333 />
+  <img src=https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=333333 />
+  <img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white />
+  <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white />
+  <img src=https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white />
+</div>
+<br/>
 
-* :computer: React, React Native, Node, Typescript
+Estou sempre aberto a novos desafios e oportunidades, você também pode me econtrar em:
+
+<div>
+  <a href="mailto:victorh.cepil@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-0072c6?style=for-the-badge&logo=Minutemailer&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/victorhugocepil/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>                                                                                                         
+</div>
 
