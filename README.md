@@ -15,7 +15,7 @@ Algumas tecnologias que costumam estar presentes no meu dia a dia:
 </div>
 <br/>
 
-Estou sempre aberto a novos desafios e oportunidades, você também pode me econtrar em:
+Estou sempre aberto a novos desafios e oportunidades, você também pode me encontrar em:
 
 <div>
   <a href="mailto:victorh.cepil@hotmail.com" target="_blank">
