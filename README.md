@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Viiict0r&color=blue)
 ### 💡 Olá!
 
 Sou desenvolvedor full-stack graduado em Análise e Desenvolvimento de Sistemas com 6+ anos de experiência, atualmente trabalhando e me aperfeiçoando no mundo das aplicações **front-end.** 👨🏻‍💻
