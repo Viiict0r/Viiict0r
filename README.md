@@ -19,7 +19,7 @@ Algumas tecnologias que costumam estar presentes no meu dia a dia:
 Estou sempre aberto a novos desafios e oportunidades, você também pode me encontrar em:
 
 <div>
-  <a href="mailto:victor@cepil.dev" target="_blank">
+  <a href="mailto:victor@cepil.dev" target="_blank" onclick="()=>alert('test')">
     <img src="https://img.shields.io/badge/EMAIL-0072c6?style=for-the-badge&logo=Minutemailer&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/victorhugocepil/" target="_blank">
